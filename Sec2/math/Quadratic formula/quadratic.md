@@ -10,3 +10,5 @@ x-intercepts = (-b +-(sqrt(b^2-4ac)))/2a
 So for eg. x^2-25=0 a=1, b=0, c=-25 (-0 +-(sqrt(100)))/2 means x1 is 5 and x2 is -5
 
 With the help of Microsoft Copilot teaching me the graph
+
+Ok so it turns out I think I also used artificial intelligence for the histogram cause I would not have used collections Counter otherwise
